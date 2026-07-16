@@ -1,0 +1,17 @@
+{
+    "id": "ae40a3eacidbase17c",
+    "stepAnswer": [
+        "7.5"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "What is the pkb value of the weak base?",
+    "stepBody": "",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+            "7",
+            "7.5",
+            "2",
+            "4"
+        ]
+}

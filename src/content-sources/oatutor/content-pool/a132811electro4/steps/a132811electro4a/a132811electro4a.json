@@ -1,0 +1,17 @@
+{
+    "id": "a132811electro4a",
+    "stepAnswer": [
+        "$$3Pb^{2+} (aq) + 2Au(s) \\rightarrow 3Pb (s) + 2Au^{3+} (aq)$$"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "Balance the redox equation",
+    "stepBody": "",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+        "$$3Pb^{2+} (aq) + 2Au(s) \\rightarrow 3Pb (s) + 2Au^{3+} (aq)$$",
+        "$$Pb^{2+}(aq) + Au(s) \\rightarrow Pb(s) + Au^{3+}(aq)$$",
+        "$$2Pb^{2+}(aq) + 3Au(s) \\rightarrow 2Pb(s) + 3Au^{3+}(aq)$$",
+        "$$6Pb^{2+}(aq) + 4Au(s) \\rightarrow 6Pb(s) + 4Au^{3+}(aq)$$"
+    ]
+}

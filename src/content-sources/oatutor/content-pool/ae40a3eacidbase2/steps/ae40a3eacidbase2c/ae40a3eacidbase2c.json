@@ -1,0 +1,16 @@
+{
+    "id": "ae40a3eacidbase2c",
+    "stepAnswer": [
+        "$$H_2PO_4^{-}$$"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "$$HPO_4^{2-}$$",
+    "stepBody": "",
+    "answerType": "string",
+    "choices": [
+        "$$PO_4^{3-}$$",
+        "$$HPO_4^-$$",
+        "$$H_2PO_4^{-}$$",
+        "$$H_3PO_4$$"
+    ]
+}

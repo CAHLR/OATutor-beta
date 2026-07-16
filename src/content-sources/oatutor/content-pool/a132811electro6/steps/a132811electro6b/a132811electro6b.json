@@ -1,0 +1,17 @@
+{
+    "id": "a132811electro6b",
+    "stepAnswer": [
+        "$$2H^{+} (aq) + 2e = H_2 (g)$$"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "Write the Half Reaction that takes place at Cathode:",
+    "stepBody": "",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+        "$$H^{+}(aq) + e^- = H_{2}(g)$$",
+        "$$2H^{+} (aq) + 2e = H_2 (g)$$",
+        "$$2H^{+}(aq) + e = H_{2}(g)$$",
+        "$$2H^{+}(aq) + 2e = 2H(g)$$"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "id": "ae40a3eacidbase14a",
+    "stepAnswer": [
+        "$$NH_3+HCl \\rightleftharpoons NH_4^{+}+Cl^{-}$$"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "Write a balanced equation for the reaction of $$NH_3$$ and HCl.",
+    "stepBody": "",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+        "$$NH_3 + HCl \\rightleftharpoons NH_3^{+} + Cl^{-}$$",
+        "$$NH_3 + HCl \\rightarrow NH_3Cl$$",
+        "$$NH_3+HCl \\rightleftharpoons NH_4^{+}+Cl^{-}$$",
+        "$$NH_3 + HCl \\rightleftharpoons NH_4 + Cl$$"
+    ]
+}

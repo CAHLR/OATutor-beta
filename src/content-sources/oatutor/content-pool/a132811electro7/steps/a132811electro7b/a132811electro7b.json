@@ -1,0 +1,11 @@
+{
+    "id": "a132811electro7b",
+    "stepAnswer": [
+        "Co (s)"
+    ],
+    "problemType": "TextBox",
+    "stepTitle": "Identify the metal electrode that is used for the Cathode. Include the state symbol.",
+    "stepBody": "",
+    "answerType": "string",
+    "variabilization": {}
+}

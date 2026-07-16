@@ -1,0 +1,16 @@
+{
+    "id": "ae40a3eacidbase6b",
+    "stepAnswer": [
+        "Basic Salt"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "$$Na^{+}CH_3COO^{-}$$",
+    "stepBody": "",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+        "Neutral Salt",
+        "Acidic Salt",
+        "Basic Salt"
+    ]
+}

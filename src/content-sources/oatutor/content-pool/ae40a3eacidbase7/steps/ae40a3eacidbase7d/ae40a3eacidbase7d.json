@@ -1,0 +1,17 @@
+{
+    "id": "ae40a3eacidbase7d",
+    "stepAnswer": [
+        "$$K_a=\\frac{[H_3O^{+}][F^{-}]}{[HF]}$$"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "Write the expression for the acid dissociation equilibrium constant ($$K_a$$) for HF.",
+    "stepBody": "",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+        "$$K_a = \\frac{[HF]}{[H_3O^{+}][F^{-}]}$$",
+        "$$K_a = \\frac{[HF][F^{-}]}{[H_3O^{+}]}$$",
+        "$$K_a = \\frac{[H_3O^{+}]}{[HF][F^{-}]}$$",
+        "$$K_a=\\frac{[H_3O^{+}][F^{-}]}{[HF]}$$"
+    ]
+}

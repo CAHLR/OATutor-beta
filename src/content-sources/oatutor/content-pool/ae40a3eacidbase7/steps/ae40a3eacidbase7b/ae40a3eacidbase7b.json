@@ -1,0 +1,17 @@
+{
+    "id": "ae40a3eacidbase7b",
+    "stepAnswer": [
+        "$$F^{-}$$"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "Identify the conjugate base from the dissociation of HF",
+    "stepBody": "",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+        "$$F^{-}$$",
+        "$$HF$$",
+        "$$H^{+}$$",
+        "$$H_2F^{+}$$"
+    ]
+}
