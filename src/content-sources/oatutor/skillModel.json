@@ -1,0 +1,747 @@
+{
+    "af40364Q1aa": [
+        "sampling"
+    ],
+    "af40364Q1ab": [
+        "sampling"
+    ],
+    "af40364Q1ac": [
+        "sampling"
+    ],
+    "af40364Q1ad": [
+        "sampling"
+    ],
+    "af40364Q1ae": [
+        "sampling"
+    ],
+    "af40364Q1af": [
+        "sampling"
+    ],
+    "af40364Q1ag": [
+        "sampling"
+    ],
+    "af40364Q1ba": [
+        "visualization",
+        "regex",
+        "data_types"
+    ],
+    "af40364Q1bb": [
+        "visualization",
+        "regex",
+        "data_types"
+    ],
+    "af40364Q1bc": [
+        "visualization",
+        "regex",
+        "data_types"
+    ],
+    "af40364Q1bd": [
+        "visualization",
+        "regex",
+        "data_types"
+    ],
+    "af40364Q1be": [
+        "visualization",
+        "regex",
+        "data_types"
+    ],
+    "af40364Q1bf": [
+        "visualization",
+        "regex",
+        "data_types"
+    ],
+    "af40364Q1bg": [
+        "visualization",
+        "regex",
+        "data_types"
+    ],
+    "af40364Q1bh": [
+        "visualization",
+        "regex",
+        "data_types"
+    ],
+    "af40364Q1bi": [
+        "visualization",
+        "regex",
+        "data_types"
+    ],
+    "af40364Q1bj": [
+        "visualization",
+        "regex",
+        "data_types"
+    ],
+    "af40364Q1bk": [
+        "visualization",
+        "regex",
+        "data_types"
+    ],
+    "af40364Q1bl": [
+        "visualization",
+        "regex",
+        "data_types"
+    ],
+    "af40364Q1bm": [
+        "visualization",
+        "regex",
+        "data_types"
+    ],
+    "af40364Q1bn": [
+        "visualization",
+        "regex",
+        "data_types"
+    ],
+    "af40364Q1bo": [
+        "visualization",
+        "regex",
+        "data_types"
+    ],
+    "af40364Q1bp": [
+        "visualization",
+        "regex",
+        "data_types"
+    ],
+    "af40364Q1bq": [
+        "visualization",
+        "regex",
+        "data_types"
+    ],
+    "af40364Q1br": [
+        "visualization",
+        "regex",
+        "data_types"
+    ],
+    "af40364Q1bs": [
+        "visualization",
+        "regex",
+        "data_types"
+    ],
+    "af40364Q1bt": [
+        "visualization",
+        "regex",
+        "data_types"
+    ],
+    "af40364Q1bu": [
+        "visualization",
+        "regex",
+        "data_types"
+    ],
+    "af40364Q1bv": [
+        "visualization",
+        "regex",
+        "data_types"
+    ],
+    "af40364Q1bw": [
+        "visualization",
+        "regex",
+        "data_types"
+    ],
+    "af40364Q1bx": [
+        "visualization",
+        "regex",
+        "data_types"
+    ],
+    "af40364Q1by": [
+        "visualization",
+        "regex",
+        "data_types"
+    ],
+    "af40364Q1ca": [
+        "pandas"
+    ],
+    "af40364Q1cb": [
+        "pandas"
+    ],
+    "af40364Q1cc": [
+        "pandas"
+    ],
+    "af40364Q1cd": [
+        "pandas"
+    ],
+    "af40364Q1ce": [
+        "pandas"
+    ],
+    "af40364Q1da": [
+        "sql"
+    ],
+    "af40364Q1db": [
+        "sql"
+    ],
+    "af40364Q1dc": [
+        "sql"
+    ],
+    "af40364Q1dd": [
+        "sql"
+    ],
+    "af40364Q1ea": [
+        "sql"
+    ],
+    "af40364Q1eb": [
+        "sql"
+    ],
+    "af40364Q1ec": [
+        "sql"
+    ],
+    "af40364Q1ed": [
+        "sql"
+    ],
+    "af40364Q1ee": [
+        "sql"
+    ],
+    "af40364Q1ef": [
+        "sql"
+    ],
+    "af40364Q2aa": [
+        "bias",
+        "variance"
+    ],
+    "af40364Q2ab": [
+        "bias",
+        "variance"
+    ],
+    "af40364Q2ba": [
+        "bootstrapping"
+    ],
+    "af40364Q2bb": [
+        "bootstrapping"
+    ],
+    "af40364Q2bc": [
+        "bootstrapping"
+    ],
+    "af40364Q2bd": [
+        "bootstrapping"
+    ],
+    "af40364Q2be": [
+        "bootstrapping"
+    ],
+    "af40364Q2bf": [
+        "bootstrapping"
+    ],
+    "af40364Q4aa": [
+        "ols"
+    ],
+    "af40364Q4ab": [
+        "ols"
+    ],
+    "af40364Q4ac": [
+        "ols"
+    ],
+    "af40364Q4ad": [
+        "ols"
+    ],
+    "af40364Q4ba": [
+        "ols"
+    ],
+    "af40364Q4bb": [
+        "ols"
+    ],
+    "af40364Q4bc": [
+        "ols"
+    ],
+    "af40364Q4bd": [
+        "ols"
+    ],
+    "af40364Q5aa": [
+        "logistic_regression"
+    ],
+    "af40364Q5ab": [
+        "logistic_regression"
+    ],
+    "af40364Q5ba": [
+        "logistic_regression"
+    ],
+    "af40364Q5ca": [
+        "logistic_regression"
+    ],
+    "af40364Q5cb": [
+        "logistic_regression"
+    ],
+    "af40364Q5da": [
+        "logistic_regression"
+    ],
+    "af40364Q6a": [
+        "pca"
+    ],
+    "af40364Q6b": [
+        "pca"
+    ],
+    "af40364Q6c": [
+        "pca"
+    ],
+    "af40364Q7aa": [
+        "clustering"
+    ],
+    "af40364Q7ab": [
+        "clustering"
+    ],
+    "af40364Q7ac": [
+        "clustering"
+    ],
+    "af40364Q7ba": [
+        "clustering"
+    ],
+    "af40364Q7bb": [
+        "clustering"
+    ],
+    "af40364Q7bc": [
+        "clustering"
+    ],
+    "af40364Q7bd": [
+        "clustering"
+    ],
+    "af40364q3aa": [
+        "regression"
+    ],
+    "af40364q3ab": [
+        "regression"
+    ],
+    "af40364q3ac": [
+        "regression"
+    ],
+    "af40364q3ad": [
+        "regression"
+    ],
+    "af40364q3ae": [
+        "regression"
+    ],
+    "af40364q3af": [
+        "regression"
+    ],
+    "af40364q3ba": [
+        "loss"
+    ],
+    "af40364q3ca": [
+        "ols"
+    ],
+    "af40364q3cb": [
+        "ols"
+    ],
+    "af40364q3cc": [
+        "ols"
+    ],
+    "af40364q3cd": [
+        "ols"
+    ],
+    "af40364q3ce": [
+        "ols"
+    ],
+    "af40364q3cf": [
+        "ols"
+    ],
+    "af40364q3cg": [
+        "ols"
+    ],
+    "af40364q3ch": [
+        "ols"
+    ],
+    "af40364q3ci": [
+        "ols"
+    ],
+    "af40364q3da": [
+        "regularization"
+    ],
+    "af40364q3db": [
+        "regularization"
+    ],
+    "af40364q3dc": [
+        "regularization"
+    ],
+    "af40364q3dd": [
+        "regularization"
+    ],
+    "af40364q3ea": [
+        "cross_validation"
+    ],
+    "af40364q3fa": [
+        "loss"
+    ],
+    "af40364q3fb": [
+        "loss"
+    ],
+    "abca051F25M1Q1a": [
+        "pandas"
+    ],
+    "abca051F25M1Q1b": [
+        "pandas"
+    ],
+    "abca051F25M1Q1c": [
+        "pandas"
+    ],
+    "abca051F25M1Q1d": [
+        "pandas"
+    ],
+    "abca051F25M1Q1e": [
+        "pandas"
+    ],
+    "abca051S25FQ1Ba": [
+        "pandas"
+    ],
+    "abca051S25FQ1Bb": [
+        "pandas"
+    ],
+    "abca051S25FQ1Bc": [
+        "pandas"
+    ],
+    "abca051S25M1Q1Ca": [
+        "pandas"
+    ],
+    "abca051S25M1Q2Ba": [
+        "pandas"
+    ],
+    "abca051S25M1Q2Bb": [
+        "pandas"
+    ],
+    "abca051S25M1Q2Bc": [
+        "pandas"
+    ],
+    "abca051S25M1Q2Bd": [
+        "pandas"
+    ],
+    "abca051row4a": [
+        "pandas"
+    ],
+    "abca051row4b": [
+        "pandas"
+    ],
+    "abca051row4c": [
+        "pandas"
+    ],
+    "abca051row4d": [
+        "pandas"
+    ],
+    "abca051row4e": [
+        "pandas"
+    ],
+    "abca051row4f": [
+        "pandas"
+    ],
+    "a9990efrow2a": [
+        "eda"
+    ],
+    "a9990efrow2b": [
+        "eda"
+    ],
+    "a9990efrow2c": [
+        "eda"
+    ],
+    "a9990efrow2d": [
+        "eda"
+    ],
+    "a9990efrow2e": [
+        "eda"
+    ],
+    "a9990efrow2f": [
+        "eda"
+    ],
+    "a9990efrow2g": [
+        "eda"
+    ],
+    "a9990efrow2h": [
+        "eda"
+    ],
+    "a9990efrow3_p1a": [
+        "eda"
+    ],
+    "a9990efrow3_p1b": [
+        "eda"
+    ],
+    "a9990efrow3_p1c": [
+        "eda"
+    ],
+    "a9990efrow4a": [
+        "eda"
+    ],
+    "a9990efrow4b": [
+        "eda"
+    ],
+    "a9990efrow4c": [
+        "eda"
+    ],
+    "a9990efrow4d": [
+        "eda"
+    ],
+    "a9990efrow4e": [
+        "eda"
+    ],
+    "a9990efrow4f": [
+        "eda"
+    ],
+    "a9990efrow4g": [
+        "eda"
+    ],
+    "a9990efrow4h": [
+        "eda"
+    ],
+    "a9990efrow4i": [
+        "eda"
+    ],
+    "a9990efrow4j": [
+        "eda"
+    ],
+    "a9990efrow7_p1a": [
+        "eda"
+    ],
+    "a9990efrow7_p1b": [
+        "eda"
+    ],
+    "a9990efrow7_p1c": [
+        "eda"
+    ],
+    "a9990efrow7_p1d": [
+        "eda"
+    ],
+    "a9990efrow8a": [
+        "eda"
+    ],
+    "a9990efrow8b": [
+        "eda"
+    ],
+    "a9990efrow8c": [
+        "eda"
+    ],
+    "a9990efrow8d": [
+        "eda"
+    ],
+    "a9990efrow8e": [
+        "eda"
+    ],
+    "a9990efrow8f": [
+        "eda"
+    ],
+    "a9990efrow9a": [
+        "eda"
+    ],
+    "a9990efrow9b": [
+        "eda"
+    ],
+    "a9990efrow9c": [
+        "eda"
+    ],
+    "a6e6819row1a": [
+        "regex"
+    ],
+    "a6e6819row1b": [
+        "regex"
+    ],
+    "a6e6819row1c": [
+        "regex"
+    ],
+    "a6e6819row10a": [
+        "regex"
+    ],
+    "a6e6819row10_part2a": [
+        "regex"
+    ],
+    "a6e6819row10_part2b": [
+        "regex"
+    ],
+    "a6e6819row11a": [
+        "regex"
+    ],
+    "a6e6819row11b": [
+        "regex"
+    ],
+    "a6e6819row12a": [
+        "regex"
+    ],
+    "a6e6819row12b": [
+        "regex"
+    ],
+    "a6e6819row12c": [
+        "regex"
+    ],
+    "a6e6819row13a": [
+        "regex"
+    ],
+    "a6e6819row13b": [
+        "regex"
+    ],
+    "a6e6819row13c": [
+        "regex"
+    ],
+    "a6e6819row14a": [
+        "regex"
+    ],
+    "a6e6819row14b": [
+        "regex"
+    ],
+    "a6e6819row14c": [
+        "regex"
+    ],
+    "a6e6819row14d": [
+        "regex"
+    ],
+    "a6e6819row14e": [
+        "regex"
+    ],
+    "a6e6819row2a": [
+        "regex"
+    ],
+    "a6e6819row3a": [
+        "regex"
+    ],
+    "a6e6819row3b": [
+        "regex"
+    ],
+    "a6e6819row3c": [
+        "regex"
+    ],
+    "a6e6819row4a": [
+        "regex"
+    ],
+    "a6e6819row5a": [
+        "regex"
+    ],
+    "a6e6819row5b": [
+        "regex"
+    ],
+    "a6e6819row5c": [
+        "regex"
+    ],
+    "a6e6819row6a": [
+        "regex"
+    ],
+    "a6e6819row6b": [
+        "regex"
+    ],
+    "a6e6819row6c": [
+        "regex"
+    ],
+    "a6e6819row6d": [
+        "regex"
+    ],
+    "a6e6819row6e": [
+        "regex"
+    ],
+    "a6e6819row7a": [
+        "regex"
+    ],
+    "a6e6819row7b": [
+        "regex"
+    ],
+    "a6e6819row7c": [
+        "regex"
+    ],
+    "a6e6819row7d": [
+        "regex"
+    ],
+    "a6e6819row7e": [
+        "regex"
+    ],
+    "a6e6819row7f": [
+        "regex"
+    ],
+    "a6e6819row7g": [
+        "regex"
+    ],
+    "a6e6819row8a": [
+        "regex"
+    ],
+    "a6e6819row9a": [
+        "regex"
+    ],
+    "a6e6819row9b": [
+        "regex"
+    ],
+    "a741d6crow10_p1a": [
+        "sampling"
+    ],
+    "a741d6crow10_p1b": [
+        "sampling"
+    ],
+    "a741d6crow10_p1c": [
+        "sampling"
+    ],
+    "a741d6crow10_p1d": [
+        "sampling"
+    ],
+    "a741d6crow10_p1e": [
+        "sampling"
+    ],
+    "a741d6crow10_p1f": [
+        "sampling"
+    ],
+    "a741d6crow10_p1g": [
+        "sampling"
+    ],
+    "a741d6crow10_p1h": [
+        "sampling"
+    ],
+    "a741d6crow10_p1i": [
+        "sampling"
+    ],
+    "a741d6crow10_p1j": [
+        "sampling"
+    ],
+    "a741d6crow10_p1k": [
+        "sampling"
+    ],
+    "a741d6crow10_p1l": [
+        "sampling"
+    ],
+    "a741d6crow10_p1m": [
+        "sampling"
+    ],
+    "a741d6crow10_p2a": [
+        "sampling"
+    ],
+    "a741d6crow10_p2b": [
+        "sampling"
+    ],
+    "a741d6crow10_p2c": [
+        "sampling"
+    ],
+    "a741d6crow10_p2d": [
+        "sampling"
+    ],
+    "a741d6crow2a": [
+        "sampling"
+    ],
+    "a741d6crow2b": [
+        "sampling"
+    ],
+    "a741d6crow2c": [
+        "sampling"
+    ],
+    "a741d6crow2d": [
+        "sampling"
+    ],
+    "a741d6crow3a": [
+        "sampling"
+    ],
+    "a741d6crow3b": [
+        "sampling"
+    ],
+    "a741d6crow4a": [
+        "sampling"
+    ],
+    "a741d6crow4b": [
+        "sampling"
+    ],
+    "a741d6crow6a": [
+        "sampling"
+    ],
+    "a741d6crow6b": [
+        "sampling"
+    ],
+    "a741d6crow6c": [
+        "sampling"
+    ],
+    "a741d6crow6d": [
+        "sampling"
+    ],
+    "a741d6crow6e": [
+        "sampling"
+    ],
+    "a741d6crow6f": [
+        "sampling"
+    ],
+    "a741d6crow6g": [
+        "sampling"
+    ],
+    "a741d6crow8a": [
+        "sampling"
+    ],
+    "a741d6crow8b": [
+        "sampling"
+    ]
+}
